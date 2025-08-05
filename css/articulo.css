@@ -1,0 +1,61 @@
+body {
+	font-family: 'Consolas';
+	background-color: #264e86;
+}
+
+#encabezado{
+	width: 85%;
+	background-color: #74dbef;	
+	color: #264e86;
+	
+}
+
+#imagenes{
+	width: 85%;
+	background-color: #74dbef;
+	text-align: center;
+	color: #74dbef;
+}
+#imagenes img{
+	width: 250px;
+}
+
+
+#contenido{
+	width: 85%;
+	background-color: #0074e4;
+	color: #eff0f4;
+}
+
+#pie-de-pagina{
+	width: 85%;
+	background-color: #eff0f4;
+	color: #264e86;
+}
+
+.centro{
+	text-align: center;
+}
+
+
+
+
+.first-color { 
+	background: #fbffa8; 
+}
+	
+.fifth-color{
+	background: #9ff7e5
+}
+
+.second-color { 
+	background: #74dac6; 
+}
+
+.third-color { 
+	background: #2a8da9; 
+}
+
+.fourth-color { 
+	background: #33354a; 
+}
